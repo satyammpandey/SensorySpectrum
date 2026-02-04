@@ -1,0 +1,20 @@
+# Sensory Spectrum - PC Requirements
+# ESP32 Color-to-Audio for Visually Impaired
+# =======================================
+
+# Core flashing & upload tools
+esptool==4.7.0
+adafruit-ampy==1.1.0
+
+# Audio generation (PC side)
+pydub==0.25.1
+numpy==1.26.4
+scipy==1.13.1
+
+# Hardware libraries (reference only)
+# These are installed ON ESP32 via upip
+# micropython-ujson
+# micropython-umqtt.simple
+
+# Development tools
+pyserial==3.5

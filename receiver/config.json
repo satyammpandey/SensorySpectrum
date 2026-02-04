@@ -1,0 +1,15 @@
+{
+    "wifi": {
+        "ssid": "Your_SSID",
+        "password": "Your_PASSWORD"
+    },
+    "network": {
+        "receiver_ip": "192.168.4.2",
+        "udp_port": 4210
+    },
+    "sensor": {
+        "sample_delay": 1.0,
+        "min_intensity": 200,
+        "confidence_threshold": 0.6
+    }
+}

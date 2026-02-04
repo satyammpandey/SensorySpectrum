@@ -1,0 +1,43 @@
+{
+  "last_calibration": "2026-01-11T23:11:00",
+  "calibration_conditions": {
+    "lighting": "indoor_LED",
+    "ambient_lux": 450,
+    "temperature": 24.5
+  },
+  "raw_white_reference": {
+    "red": 1850,
+    "green": 1620,
+    "blue": 1780,
+    "clear": 5200
+  },
+  "calibration_factors": {
+    "red_factor": 1.000,
+    "green_factor": 1.142,
+    "blue_factor": 1.039
+  },
+  "intensity_ranges": {
+    "white_min_total": 4500,
+    "black_max_total": 600,
+    "min_intensity_threshold": 200
+  },
+  "performance_stats": {
+    "total_calibrations": 3,
+    "avg_confidence": 0.89,
+    "last_calibration_confidence": 0.94
+  },
+  "color_profiles": {
+    "default": {
+      "red_threshold": 0.50,
+      "green_threshold": 0.50,
+      "blue_threshold": 0.50,
+      "confidence_threshold": 0.60
+    },
+    "low_light": {
+      "red_threshold": 0.45,
+      "green_threshold": 0.45,
+      "blue_threshold": 0.45,
+      "confidence_threshold": 0.50
+    }
+  }
+}

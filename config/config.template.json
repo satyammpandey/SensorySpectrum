@@ -1,0 +1,34 @@
+{
+  "wifi": {
+    "ssid": "YOUR_WIFI_NAME_HERE",
+    "password": "YOUR_WIFI_PASSWORD"
+  },
+  "network": {
+    "receiver_ip": "192.168.1.XXX", 
+    "udp_port": 4210
+  },
+  "sensor": {
+    "sample_delay": 1.0,
+    "min_intensity": 200,
+    "confidence_threshold": 0.6
+  },
+  "dfplayer": {
+    "volume": 25,
+    "tx_pin": 17,
+    "rx_pin": 16
+  },
+  "audio": {
+    "track_map": {
+      "Red": 1,
+      "Green": 2,
+      "Blue": 3,
+      "Yellow": 4,
+      "Cyan": 5,
+      "Magenta": 6,
+      "Orange": 7,
+      "Purple": 8,
+      "White": 9,
+      "Black": 10
+    }
+  }
+}

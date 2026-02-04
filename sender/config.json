@@ -1,0 +1,28 @@
+{
+    "wifi": {
+        "ssid": "Your_SSID",
+        "password": "Your_PASSWORD"
+    },
+    "network": {
+        "udp_port": 4210
+    },
+    "dfplayer": {
+        "tx_pin": 17,
+        "rx_pin": 16,
+        "volume": 20
+    },
+    "audio": {
+        "track_map": {
+            "Red": 1,
+            "Green": 2,
+            "Blue": 3,
+            "Yellow": 4,
+            "Cyan": 5,
+            "Magenta": 6,
+            "Orange": 7,
+            "Purple": 8,
+            "White": 9,
+            "Black": 10
+        }
+    }
+}
