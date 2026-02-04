@@ -435,11 +435,11 @@ This project is open-source under the MIT License.
 
 ## 👨‍💻 Author
 
-**Madhur Tyagi**
-- Agentic AI & Generative AI Developer
+**Satyam Pandey**
+- Generative AI & Agentic AI Developer
 - BCA Graduate 2026
 - Location: Delhi, India
-- GitHub: @madhurtyagii
+- GitHub: @satyammpandey
 
 ---
 
