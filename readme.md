@@ -457,7 +457,7 @@ This project is open-source under the MIT License.
 For issues, questions, or suggestions:
 - Open an issue on GitHub
 - Check troubleshooting guide first
-- Review configuration files
+- Review configuration files 
 
 ---
 
